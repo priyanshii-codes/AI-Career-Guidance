@@ -16,3 +16,5 @@ This project helps students and professionals discover suitable career paths bas
 ---
 
 ## 📂 Project Structure
+│── ai_career_guidance.py   # Main application code
+│── README.md            # Documentation
